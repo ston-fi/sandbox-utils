@@ -1,0 +1,27 @@
+node_modules
+contracts_build/
+temp
+
+dist/
+package/
+
+build/*compiled.json
+build/*config.json
+build/config/*config.json
+build/lib*.json
+build/*.md
+build/*.txt
+build/graph/
+graph/
+
+.env
+!.env.example
+.vscode/
+
+# Yarn
+.yarn/
+yarn.lock
+
+# Idea
+.DS_Store
+.idea/
